@@ -4,7 +4,7 @@ Start with the basics
 Begin by teaching the fundamental concepts of coding, such as algorithms, variables, and data types. Use examples that are relevant and relatable to your students, such as simple games or interactive activities.
 
 Use visual aids and interactive tools
-Visual aids such as diagrams and flowcharts can help students understand the logic behind coding. [Interactive learning materials like those available on Twinkl]([url](https://www.twinkl.com/resources/usa-resources)) or Scratch can help students practice their coding skills while making it more engaging and enjoyable.
+Visual aids such as diagrams and flowcharts can help students understand the logic behind coding. [Interactive learning materials like those available on Twinkl](https://www.twinkl.com/resources/usa-resources) or Scratch can help students practice their coding skills while making it more engaging and enjoyable.
 
 Encourage collaboration
 Encourage students to work in pairs or small groups, to share ideas and to solve problems collaboratively. This will not only help students learn from each other but also foster teamwork and communication skills.
